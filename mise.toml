@@ -1,0 +1,4 @@
+[tools]
+go = "1.24.1"
+protobuf = "30.1"
+protoc-gen-go = "1.36.6"
